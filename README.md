@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello there! Welcome to my GitHub!
 
-<!--
-**andre-meseiro/andre-meseiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is André Meseiro. I'm a student from Setúbal, Portugal, with great passion for learning new technologies.
 
-Here are some ideas to get you started:
+- 🎓 3rd year student of Computer Science at Instituto Politécnico de Setúbal.
+- 🎮 Esports enthusiast and former captain of team A + member of ESPN Esports Club.
+- 👨‍💻 Great teamworker, critical thinker and problem solver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn linkedin.com/in/andre-meseiro.
+
+## Tools and Languages
+[<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
+[<img align="left" alt="C" width="36px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][github]
+[<img align="left" alt="C#" width="36px" height="40px" src="[https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />][github]
+[<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
+[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+
+<br />
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&count_private=true&show_icons=true&include_all_commits=true)
+
+[github]: https://github.com/andre-meseiro
+[linkedin]: https://www.linkedin.com/in/andre-meseiro/
