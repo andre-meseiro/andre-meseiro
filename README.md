@@ -11,7 +11,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn l
 ## Tools and Languages
 [<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
 [<img align="left" alt="C" width="36px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][github]
-[<img align="left" alt="C#" width="36px" src="https://en.wikipedia.org/wiki/File:C_Sharp_Logo_2023.svg" />][github]
+[<img align="left" alt="C#" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][github]
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 
