@@ -23,7 +23,5 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn l
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andre-meseiro)](https://github.com/anuraghazra/github-readme-stats)
-
 [github]: https://github.com/andre-meseiro
 [linkedin]: https://www.linkedin.com/in/andre-meseiro/
