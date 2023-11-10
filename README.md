@@ -21,7 +21,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn l
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro&layout=compact&theme=dark&count_private=true)
 
-![GitHub Stats](https://https://github-readme-stats.vercel.app/api?username=andre-meseiro&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 [github]: https://github.com/andre-meseiro
 [linkedin]: https://www.linkedin.com/in/andre-meseiro/
