@@ -1,6 +1,6 @@
 ### Hello there! Welcome to my GitHub!
 
-My name is André Meseiro. I'm a student from Setúbal, Portugal, with great passion for learning new technologies.
+My name is André Meseiro. I'm a student from Setúbal, Portugal, with a great passion for learning new technologies.
 
 - 🎓 3rd year student of Computer Science at Instituto Politécnico de Setúbal.
 - 🎮 Esports enthusiast and former captain of team A + member of ESPN Esports Club.
