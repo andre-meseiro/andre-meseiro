@@ -14,14 +14,16 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn l
 [<img align="left" alt="C#" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][github]
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
+[<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
 
 <br />
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/andre-meseiro
 [linkedin]: https://www.linkedin.com/in/andre-meseiro/
