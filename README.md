@@ -23,7 +23,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro&&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&theme=dark&&count_private=true&&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&theme=dark&&count_private=true&&show_icons=true&include_all_commits=true)](https://github.com/andre-meseiro/github-readme-stats)
 
 [github]: https://github.com/andre-meseiro
 [linkedin]: https://www.linkedin.com/in/andre-meseiro/
