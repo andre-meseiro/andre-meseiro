@@ -15,7 +15,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn a
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Node.js" width="36px" src="https://pt.wikipedia.org/wiki/Ficheiro:Node.js_logo.svg" />][github]
+[<img align="left" alt="Node.js" width="36px" src="https://pt.wikipedia.org/wiki/Node.js#/media/Ficheiro:Node.js_logo.svg" />][github]
 [<img align="left" alt=".NET Core" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
 
