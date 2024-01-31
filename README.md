@@ -1,4 +1,4 @@
-### Hello there! Welcome to my GitHub!
+### Hello, welcome to my GitHub.
 
 My name is André Meseiro. I'm a student from Setúbal, Portugal, with a great passion for learning new technologies.
 
