@@ -2,9 +2,9 @@
 
 My name is André Meseiro. I'm a student from Setúbal, Portugal, with a great passion for learning new technologies.
 
-- 🎓 3rd year student of Computer Science at Instituto Politécnico de Setúbal.
-- 🎮 Esports enthusiast and former captain of team A + member of ESPN Esports Club.
-- 👨‍💻 Great teamworker, critical thinker and problem solver.
+- 🎓 3rd year student of Computer Science and Engineering at Instituto Politécnico de Setúbal;
+- 🎮 Esports enthusiast and former captain of team A + active member of ESPN Esports Club;
+- 👨‍💻 Great teamworker and critical thinker.
 
 You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn at linkedin.com/in/andre-meseiro.
 
@@ -15,6 +15,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn a
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
+[<img align="left" alt=".NET Core" width="36px" src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
 
 <br />
