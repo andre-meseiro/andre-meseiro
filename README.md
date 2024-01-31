@@ -19,6 +19,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn a
 [<img align="left" alt=".NET Core" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
 [<img align="left" alt="MySQL" width="36px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />][github]
+[<img align="left" alt="SQL Server" width="36px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />][github]
 
 <br />
 
