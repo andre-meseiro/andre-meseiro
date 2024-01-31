@@ -18,6 +18,7 @@ You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn a
 [<img align="left" alt="Node.js" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />][github]
 [<img align="left" alt=".NET Core" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][github]
 [<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
+[<img align="left" alt="MySQL" width="36px" src="https://www.pngwing.com/en/free-png-tktys" />][github]
 
 <br />
 
