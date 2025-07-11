@@ -6,7 +6,7 @@ My name is André Meseiro. I'm a software engineer from Lisbon, Portugal, with a
 - 🎮 Esports enthusiast and former captain of team A + active member of ESPN Esports Club;
 - 👨‍💻 Great teamworker and critical thinker.
 
-You can contact me through my email andrefpmeseiro123@gmail.com or on LinkedIn at linkedin.com/in/andre-meseiro.
+You can contact me through my email andrefpmeseiro123@gmail.com or on [LinkedIn](linkedin.com/in/andre-meseiro).
 
 ## Tools and Languages
 [<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
