@@ -1,22 +1,28 @@
 ### Hey there!
 
-I'm a Computer Science and Engineering graduate of Instituto Politécnico de Setúbal (IPS) from Lisbon Metropolitan Area, Portugal, always looking for new opportunities as a software engineer or AI engineer.
-
-## Languages and Frameworks
-[<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
-[<img align="left" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />][github]
-[<img align="left" alt="C#" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][github]
-[<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][github]
-[<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
-[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Node.js" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />][github]
-[<img align="left" alt=".NET Core" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][github]
-[<img align="left" alt="TypeScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][github]
-[<img align="left" alt="MySQL" width="36px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />][github]
-[<img align="left" alt="SQL Server" width="36px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" />][github]
-
-<br />
+I'm a **Computer Science and Engineering graduate** from **Instituto Politécnico de Setúbal (IPS)** in the Lisbon Metropolitan Area, Portugal.  
+Always looking for new opportunities as a **Software Engineer**.
 
 ---
 
-You can contact me either through my email andrefpmeseiro123@gmail.com or [LinkedIn](https://linkedin.com/in/andre-meseiro).
+## Languages & Frameworks
+<p align="left">
+  <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="C Sharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt=".NET Core" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Angular" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="SQL Server" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</p>
+
+---
+
+## Contact Me
+
+- Email: **andrefpmeseiro123@gmail.com**  
+- LinkedIn: **[andre-meseiro](https://linkedin.com/in/andre-meseiro)**
