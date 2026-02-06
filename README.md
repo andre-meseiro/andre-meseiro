@@ -1,14 +1,8 @@
-### Hello, welcome to my GitHub!
+### Hey there!
 
-My name is André Meseiro. I'm a software engineer from Lisbon, Portugal, with a great passion for learning new technologies.
+I'm a Computer Science and Engineering graduate of Instituto Politécnico de Setúbal (IPS) from Lisbon Metropolitan Area, Portugal, always looking for new opportunities as a software engineer or AI engineer.
 
-- 🎓 BsC in Computer Science and Engineering at Instituto Politécnico de Setúbal;
-- 🎮 Esports enthusiast and former captain of team A + active member of ESPN Esports Club;
-- 👨‍💻 Great teamworker and critical thinker.
-
-You can contact me either through my email andrefpmeseiro123@gmail.com or [LinkedIn](https://linkedin.com/in/andre-meseiro).
-
-## Tools and Languages
+## Languages and Frameworks
 [<img align="left" alt="Java" width="60px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
 [<img align="left" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />][github]
 [<img align="left" alt="C#" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][github]
@@ -25,9 +19,4 @@ You can contact me either through my email andrefpmeseiro123@gmail.com or [Linke
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-meseiro&&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-meseiro&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
-
-[github]: https://github.com/andre-meseiro
-[linkedin]: https://www.linkedin.com/in/andre-meseiro/
+You can contact me either through my email andrefpmeseiro123@gmail.com or [LinkedIn](https://linkedin.com/in/andre-meseiro).
