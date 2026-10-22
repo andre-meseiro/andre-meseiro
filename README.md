@@ -1,7 +1,7 @@
 ### Hey there!
 
-I'm a **Computer Science and Engineering graduate** from **Instituto Politécnico de Setúbal (IPS)** in the Lisbon Metropolitan Area, Portugal.  
-Always looking for new opportunities as a **Software Engineer**.
+I'm a **Computer Science and Engineering graduate** from **Universidade Politécnica de Setúbal** in the Lisbon Metropolitan Area, Portugal.  
+Always looking for new opportunities as a **Software Development**, **AI Development** and any other roles that may fit me and I can contribute to.
 
 I have pinned the following repositories which contain the most important things I did during my BSc degree:
 - **ESA-PV-Project:** The Applied Software Engineering and Visual Programming joint project, a website that consisted on a property booking platform, made in **ASP .NET Core MVC Web API**, with **C#** for the backend and **Angular + Bootstrap** with **TypeScript** for the frontend, hosted on the **Azure** Cloud
